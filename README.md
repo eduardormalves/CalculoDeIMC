@@ -9,3 +9,5 @@ Menos do que 18,5 - Abaixo do peso,
 
 Podemos destacar algumas coisas bem interessantes, quando é inserido um caractere no lugar de um numero, é retornado uma resposta no HTML em vemelho, sendo "Peso Inválido" ou "Altura Inválida".
 Caso a altura e o peso forem validados, é retornado a resposta em verde, com o resultado descrito a cima.
+
+Todo o codigo JavaScript foi comentado.
